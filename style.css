@@ -1,0 +1,18 @@
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #E2F8CD;
+ padding: 20px 20px 20px 20px;
+  border: 5px solid black;
+}
